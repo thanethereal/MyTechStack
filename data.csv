@@ -1,0 +1,1001 @@
+name,address,rating
+Mountain Lodge,202 Maple Lane,4
+Grand Hotel,123 Main Street,4
+Seaside Inn,789 Oak Boulevard,5
+Grand Hotel,123 Main Street,4.5
+Luxury Resort,101 Pine Road,4
+City Center Hotel,789 Oak Boulevard,4
+Mountain Lodge,456 Elm Avenue,4
+City Center Hotel,123 Main Street,4.5
+Luxury Resort,456 Elm Avenue,4
+City Center Hotel,202 Maple Lane,4
+Mountain Lodge,123 Main Street,4
+Seaside Inn,101 Pine Road,4.5
+City Center Hotel,202 Maple Lane,4
+City Center Hotel,202 Maple Lane,4.5
+City Center Hotel,123 Main Street,4
+Mountain Lodge,101 Pine Road,4.5
+Seaside Inn,202 Maple Lane,4.5
+Mountain Lodge,456 Elm Avenue,4
+Luxury Resort,789 Oak Boulevard,4
+Luxury Resort,789 Oak Boulevard,4
+Grand Hotel,456 Elm Avenue,4
+City Center Hotel,101 Pine Road,4
+Luxury Resort,789 Oak Boulevard,4
+Grand Hotel,456 Elm Avenue,4.5
+Grand Hotel,101 Pine Road,4.5
+Seaside Inn,101 Pine Road,5
+Grand Hotel,123 Main Street,5
+City Center Hotel,789 Oak Boulevard,5
+Luxury Resort,456 Elm Avenue,4.5
+Grand Hotel,123 Main Street,5
+Grand Hotel,101 Pine Road,5
+City Center Hotel,202 Maple Lane,4
+City Center Hotel,101 Pine Road,4.5
+City Center Hotel,456 Elm Avenue,5
+City Center Hotel,123 Main Street,4.5
+Mountain Lodge,202 Maple Lane,4
+Grand Hotel,789 Oak Boulevard,4.5
+Seaside Inn,202 Maple Lane,5
+Grand Hotel,101 Pine Road,5
+Seaside Inn,789 Oak Boulevard,4
+Seaside Inn,101 Pine Road,5
+City Center Hotel,202 Maple Lane,4
+City Center Hotel,101 Pine Road,5
+Grand Hotel,789 Oak Boulevard,4
+Seaside Inn,101 Pine Road,4
+City Center Hotel,101 Pine Road,4
+Grand Hotel,202 Maple Lane,5
+Luxury Resort,789 Oak Boulevard,5
+Seaside Inn,123 Main Street,5
+City Center Hotel,456 Elm Avenue,4
+Grand Hotel,456 Elm Avenue,4.5
+City Center Hotel,789 Oak Boulevard,5
+Luxury Resort,456 Elm Avenue,5
+Grand Hotel,101 Pine Road,5
+City Center Hotel,101 Pine Road,4.5
+Grand Hotel,789 Oak Boulevard,5
+City Center Hotel,202 Maple Lane,4.5
+City Center Hotel,202 Maple Lane,4.5
+Grand Hotel,101 Pine Road,4
+Luxury Resort,789 Oak Boulevard,4
+Mountain Lodge,123 Main Street,5
+City Center Hotel,456 Elm Avenue,4.5
+Luxury Resort,202 Maple Lane,4.5
+City Center Hotel,101 Pine Road,5
+Mountain Lodge,789 Oak Boulevard,4
+Seaside Inn,202 Maple Lane,5
+Grand Hotel,101 Pine Road,4.5
+City Center Hotel,101 Pine Road,5
+Mountain Lodge,123 Main Street,4.5
+Mountain Lodge,101 Pine Road,5
+Luxury Resort,123 Main Street,4
+Grand Hotel,123 Main Street,4
+Mountain Lodge,123 Main Street,4.5
+Mountain Lodge,789 Oak Boulevard,4
+Seaside Inn,202 Maple Lane,5
+City Center Hotel,456 Elm Avenue,5
+Seaside Inn,456 Elm Avenue,5
+Seaside Inn,456 Elm Avenue,5
+City Center Hotel,101 Pine Road,4.5
+Mountain Lodge,101 Pine Road,5
+Luxury Resort,202 Maple Lane,4
+Seaside Inn,123 Main Street,5
+Luxury Resort,789 Oak Boulevard,5
+Seaside Inn,101 Pine Road,4
+City Center Hotel,101 Pine Road,5
+Seaside Inn,202 Maple Lane,4
+Luxury Resort,123 Main Street,4.5
+Luxury Resort,456 Elm Avenue,4
+City Center Hotel,101 Pine Road,4.5
+Mountain Lodge,456 Elm Avenue,5
+Grand Hotel,456 Elm Avenue,4
+Grand Hotel,202 Maple Lane,4
+Luxury Resort,789 Oak Boulevard,4.5
+Grand Hotel,123 Main Street,4
+Luxury Resort,456 Elm Avenue,4
+Luxury Resort,123 Main Street,5
+Seaside Inn,789 Oak Boulevard,4.5
+Seaside Inn,202 Maple Lane,5
+Grand Hotel,101 Pine Road,4.5
+Seaside Inn,456 Elm Avenue,5
+Luxury Resort,202 Maple Lane,4.5
+Seaside Inn,456 Elm Avenue,5
+City Center Hotel,101 Pine Road,4.5
+Luxury Resort,101 Pine Road,4
+Mountain Lodge,456 Elm Avenue,5
+Mountain Lodge,101 Pine Road,4.5
+Luxury Resort,202 Maple Lane,4
+Luxury Resort,789 Oak Boulevard,5
+Mountain Lodge,202 Maple Lane,4.5
+Grand Hotel,123 Main Street,4.5
+Grand Hotel,101 Pine Road,4
+City Center Hotel,101 Pine Road,4.5
+Luxury Resort,789 Oak Boulevard,4.5
+City Center Hotel,789 Oak Boulevard,5
+City Center Hotel,456 Elm Avenue,4
+Seaside Inn,202 Maple Lane,5
+Mountain Lodge,789 Oak Boulevard,4.5
+Mountain Lodge,101 Pine Road,5
+Seaside Inn,202 Maple Lane,4
+City Center Hotel,101 Pine Road,4.5
+Luxury Resort,101 Pine Road,5
+Grand Hotel,456 Elm Avenue,5
+City Center Hotel,456 Elm Avenue,5
+Seaside Inn,101 Pine Road,5
+Luxury Resort,202 Maple Lane,4
+City Center Hotel,202 Maple Lane,4
+Seaside Inn,202 Maple Lane,4.5
+Seaside Inn,123 Main Street,4
+Grand Hotel,456 Elm Avenue,5
+City Center Hotel,789 Oak Boulevard,4
+Grand Hotel,202 Maple Lane,5
+Mountain Lodge,123 Main Street,5
+Luxury Resort,123 Main Street,4.5
+Mountain Lodge,456 Elm Avenue,5
+City Center Hotel,101 Pine Road,4
+City Center Hotel,789 Oak Boulevard,4.5
+Seaside Inn,202 Maple Lane,4
+Luxury Resort,202 Maple Lane,4
+Seaside Inn,202 Maple Lane,4.5
+City Center Hotel,789 Oak Boulevard,4.5
+Mountain Lodge,101 Pine Road,4
+City Center Hotel,456 Elm Avenue,4
+City Center Hotel,101 Pine Road,4.5
+Grand Hotel,789 Oak Boulevard,5
+Grand Hotel,101 Pine Road,4.5
+City Center Hotel,101 Pine Road,4.5
+City Center Hotel,456 Elm Avenue,5
+Grand Hotel,123 Main Street,5
+Seaside Inn,789 Oak Boulevard,4.5
+Luxury Resort,456 Elm Avenue,4
+Luxury Resort,202 Maple Lane,5
+Mountain Lodge,123 Main Street,4.5
+Grand Hotel,456 Elm Avenue,4
+Mountain Lodge,123 Main Street,5
+City Center Hotel,456 Elm Avenue,4
+Grand Hotel,789 Oak Boulevard,4.5
+Luxury Resort,456 Elm Avenue,5
+Seaside Inn,202 Maple Lane,4.5
+Luxury Resort,202 Maple Lane,5
+Grand Hotel,202 Maple Lane,4.5
+City Center Hotel,123 Main Street,5
+Grand Hotel,456 Elm Avenue,4
+Luxury Resort,456 Elm Avenue,5
+Mountain Lodge,101 Pine Road,4
+Grand Hotel,123 Main Street,4
+Seaside Inn,101 Pine Road,4
+City Center Hotel,202 Maple Lane,5
+City Center Hotel,202 Maple Lane,4
+Mountain Lodge,123 Main Street,5
+City Center Hotel,101 Pine Road,5
+Luxury Resort,456 Elm Avenue,5
+Grand Hotel,456 Elm Avenue,4.5
+Grand Hotel,123 Main Street,4.5
+Grand Hotel,456 Elm Avenue,5
+Luxury Resort,456 Elm Avenue,4
+City Center Hotel,123 Main Street,4.5
+Grand Hotel,789 Oak Boulevard,4
+City Center Hotel,123 Main Street,4
+Luxury Resort,202 Maple Lane,4.5
+Luxury Resort,456 Elm Avenue,5
+Luxury Resort,123 Main Street,4
+Luxury Resort,456 Elm Avenue,5
+Seaside Inn,456 Elm Avenue,4.5
+Grand Hotel,123 Main Street,4.5
+Luxury Resort,101 Pine Road,4
+Mountain Lodge,101 Pine Road,4.5
+Mountain Lodge,202 Maple Lane,4.5
+Mountain Lodge,456 Elm Avenue,5
+Seaside Inn,123 Main Street,5
+Luxury Resort,789 Oak Boulevard,4.5
+Luxury Resort,789 Oak Boulevard,5
+Grand Hotel,123 Main Street,4
+City Center Hotel,123 Main Street,4.5
+City Center Hotel,123 Main Street,5
+Luxury Resort,202 Maple Lane,5
+City Center Hotel,202 Maple Lane,4.5
+Mountain Lodge,456 Elm Avenue,4
+Mountain Lodge,789 Oak Boulevard,4.5
+City Center Hotel,456 Elm Avenue,4.5
+Mountain Lodge,101 Pine Road,5
+City Center Hotel,202 Maple Lane,4.5
+Grand Hotel,456 Elm Avenue,4
+Seaside Inn,123 Main Street,4
+Mountain Lodge,123 Main Street,4.5
+Seaside Inn,101 Pine Road,5
+Luxury Resort,123 Main Street,4
+Mountain Lodge,101 Pine Road,4
+Seaside Inn,202 Maple Lane,4.5
+Grand Hotel,123 Main Street,4
+Mountain Lodge,123 Main Street,4
+Seaside Inn,123 Main Street,4.5
+Grand Hotel,456 Elm Avenue,4
+Grand Hotel,123 Main Street,4.5
+Mountain Lodge,101 Pine Road,4.5
+Luxury Resort,202 Maple Lane,4.5
+Mountain Lodge,123 Main Street,4
+Luxury Resort,101 Pine Road,4
+Luxury Resort,789 Oak Boulevard,5
+City Center Hotel,123 Main Street,5
+Mountain Lodge,123 Main Street,5
+Luxury Resort,202 Maple Lane,5
+Grand Hotel,789 Oak Boulevard,4
+Mountain Lodge,456 Elm Avenue,5
+Grand Hotel,123 Main Street,4
+Luxury Resort,202 Maple Lane,4
+Mountain Lodge,456 Elm Avenue,4.5
+Luxury Resort,101 Pine Road,5
+Grand Hotel,101 Pine Road,4.5
+Seaside Inn,101 Pine Road,4.5
+Luxury Resort,101 Pine Road,4.5
+Luxury Resort,789 Oak Boulevard,5
+Seaside Inn,202 Maple Lane,4
+Mountain Lodge,789 Oak Boulevard,4.5
+City Center Hotel,123 Main Street,4.5
+Seaside Inn,789 Oak Boulevard,4
+Mountain Lodge,101 Pine Road,4.5
+Grand Hotel,123 Main Street,4
+Luxury Resort,101 Pine Road,5
+Luxury Resort,101 Pine Road,5
+Luxury Resort,123 Main Street,5
+Seaside Inn,101 Pine Road,5
+City Center Hotel,101 Pine Road,4
+Luxury Resort,789 Oak Boulevard,4.5
+Mountain Lodge,789 Oak Boulevard,5
+Seaside Inn,202 Maple Lane,4.5
+City Center Hotel,101 Pine Road,4.5
+City Center Hotel,202 Maple Lane,5
+City Center Hotel,202 Maple Lane,5
+Seaside Inn,456 Elm Avenue,5
+Seaside Inn,456 Elm Avenue,4
+City Center Hotel,456 Elm Avenue,4.5
+City Center Hotel,202 Maple Lane,5
+Grand Hotel,202 Maple Lane,5
+Luxury Resort,101 Pine Road,4.5
+Seaside Inn,456 Elm Avenue,4.5
+Grand Hotel,123 Main Street,5
+Luxury Resort,456 Elm Avenue,5
+Grand Hotel,789 Oak Boulevard,4
+Luxury Resort,101 Pine Road,5
+Grand Hotel,789 Oak Boulevard,4
+City Center Hotel,456 Elm Avenue,4
+Seaside Inn,789 Oak Boulevard,4.5
+Grand Hotel,123 Main Street,4.5
+Seaside Inn,456 Elm Avenue,4
+Luxury Resort,456 Elm Avenue,4.5
+Grand Hotel,789 Oak Boulevard,4
+Mountain Lodge,101 Pine Road,5
+City Center Hotel,202 Maple Lane,5
+Seaside Inn,202 Maple Lane,4.5
+City Center Hotel,789 Oak Boulevard,4
+Seaside Inn,202 Maple Lane,4.5
+City Center Hotel,123 Main Street,5
+Seaside Inn,123 Main Street,4.5
+Seaside Inn,101 Pine Road,5
+City Center Hotel,101 Pine Road,5
+City Center Hotel,789 Oak Boulevard,5
+Mountain Lodge,456 Elm Avenue,4.5
+Seaside Inn,789 Oak Boulevard,4.5
+Seaside Inn,202 Maple Lane,4
+Mountain Lodge,123 Main Street,4
+Luxury Resort,123 Main Street,4
+Luxury Resort,789 Oak Boulevard,4
+Luxury Resort,789 Oak Boulevard,4
+City Center Hotel,202 Maple Lane,5
+Grand Hotel,202 Maple Lane,4.5
+Luxury Resort,789 Oak Boulevard,4
+Mountain Lodge,123 Main Street,4
+Mountain Lodge,101 Pine Road,4
+Grand Hotel,456 Elm Avenue,5
+City Center Hotel,789 Oak Boulevard,4
+Grand Hotel,202 Maple Lane,4.5
+Luxury Resort,456 Elm Avenue,4
+Seaside Inn,789 Oak Boulevard,4.5
+Mountain Lodge,123 Main Street,5
+Luxury Resort,123 Main Street,4
+Mountain Lodge,456 Elm Avenue,4.5
+Mountain Lodge,456 Elm Avenue,4
+Luxury Resort,456 Elm Avenue,4.5
+Seaside Inn,101 Pine Road,5
+Mountain Lodge,456 Elm Avenue,5
+Mountain Lodge,202 Maple Lane,5
+Luxury Resort,202 Maple Lane,4.5
+Luxury Resort,456 Elm Avenue,5
+Mountain Lodge,101 Pine Road,4.5
+Seaside Inn,202 Maple Lane,4.5
+City Center Hotel,123 Main Street,5
+Mountain Lodge,789 Oak Boulevard,4.5
+Luxury Resort,202 Maple Lane,4
+Luxury Resort,101 Pine Road,4
+Seaside Inn,202 Maple Lane,4
+City Center Hotel,123 Main Street,4
+Grand Hotel,202 Maple Lane,5
+Seaside Inn,123 Main Street,5
+Grand Hotel,101 Pine Road,4
+Grand Hotel,101 Pine Road,5
+Grand Hotel,123 Main Street,4.5
+Luxury Resort,456 Elm Avenue,4.5
+Mountain Lodge,202 Maple Lane,5
+Grand Hotel,789 Oak Boulevard,5
+City Center Hotel,123 Main Street,4.5
+City Center Hotel,456 Elm Avenue,4
+Mountain Lodge,202 Maple Lane,4
+City Center Hotel,202 Maple Lane,5
+Mountain Lodge,123 Main Street,4
+City Center Hotel,123 Main Street,4.5
+Grand Hotel,456 Elm Avenue,4.5
+Grand Hotel,101 Pine Road,4
+City Center Hotel,101 Pine Road,5
+City Center Hotel,456 Elm Avenue,4.5
+Mountain Lodge,202 Maple Lane,5
+Grand Hotel,101 Pine Road,4
+City Center Hotel,456 Elm Avenue,5
+City Center Hotel,202 Maple Lane,4
+Grand Hotel,123 Main Street,4.5
+Luxury Resort,456 Elm Avenue,4.5
+City Center Hotel,456 Elm Avenue,4.5
+Mountain Lodge,456 Elm Avenue,5
+Grand Hotel,789 Oak Boulevard,5
+Luxury Resort,456 Elm Avenue,4
+Grand Hotel,202 Maple Lane,4
+Mountain Lodge,123 Main Street,5
+Grand Hotel,456 Elm Avenue,4
+Grand Hotel,101 Pine Road,5
+Luxury Resort,456 Elm Avenue,4.5
+City Center Hotel,202 Maple Lane,5
+Seaside Inn,456 Elm Avenue,4
+Mountain Lodge,101 Pine Road,5
+City Center Hotel,123 Main Street,4.5
+Luxury Resort,789 Oak Boulevard,4.5
+Luxury Resort,789 Oak Boulevard,4
+Luxury Resort,101 Pine Road,4
+Grand Hotel,789 Oak Boulevard,5
+Seaside Inn,456 Elm Avenue,4
+Grand Hotel,123 Main Street,4.5
+Mountain Lodge,789 Oak Boulevard,5
+Grand Hotel,101 Pine Road,4
+City Center Hotel,789 Oak Boulevard,4.5
+Luxury Resort,202 Maple Lane,4.5
+City Center Hotel,456 Elm Avenue,4.5
+City Center Hotel,789 Oak Boulevard,4
+Grand Hotel,456 Elm Avenue,4
+City Center Hotel,202 Maple Lane,4
+Grand Hotel,202 Maple Lane,5
+Mountain Lodge,101 Pine Road,4
+Luxury Resort,202 Maple Lane,5
+Mountain Lodge,101 Pine Road,4.5
+Luxury Resort,456 Elm Avenue,5
+Grand Hotel,202 Maple Lane,4.5
+Seaside Inn,202 Maple Lane,5
+Mountain Lodge,456 Elm Avenue,5
+Luxury Resort,456 Elm Avenue,5
+Seaside Inn,456 Elm Avenue,4.5
+Seaside Inn,789 Oak Boulevard,4.5
+Mountain Lodge,202 Maple Lane,4
+Grand Hotel,202 Maple Lane,4.5
+Seaside Inn,202 Maple Lane,4
+Grand Hotel,456 Elm Avenue,4.5
+Mountain Lodge,456 Elm Avenue,4.5
+Luxury Resort,101 Pine Road,4.5
+Grand Hotel,456 Elm Avenue,4.5
+Grand Hotel,202 Maple Lane,4.5
+Seaside Inn,789 Oak Boulevard,4.5
+City Center Hotel,101 Pine Road,5
+Luxury Resort,123 Main Street,5
+Luxury Resort,789 Oak Boulevard,4.5
+Mountain Lodge,123 Main Street,4.5
+Mountain Lodge,202 Maple Lane,4.5
+Luxury Resort,202 Maple Lane,5
+Mountain Lodge,202 Maple Lane,4.5
+City Center Hotel,456 Elm Avenue,4
+City Center Hotel,202 Maple Lane,4.5
+Seaside Inn,123 Main Street,5
+Mountain Lodge,456 Elm Avenue,5
+Mountain Lodge,456 Elm Avenue,4.5
+Mountain Lodge,789 Oak Boulevard,5
+Seaside Inn,456 Elm Avenue,4.5
+Luxury Resort,123 Main Street,4
+Mountain Lodge,202 Maple Lane,5
+Luxury Resort,123 Main Street,4.5
+Luxury Resort,123 Main Street,4
+City Center Hotel,789 Oak Boulevard,5
+City Center Hotel,789 Oak Boulevard,5
+City Center Hotel,456 Elm Avenue,5
+City Center Hotel,456 Elm Avenue,4.5
+Mountain Lodge,123 Main Street,4.5
+City Center Hotel,789 Oak Boulevard,5
+Mountain Lodge,789 Oak Boulevard,5
+Grand Hotel,789 Oak Boulevard,5
+Seaside Inn,101 Pine Road,5
+City Center Hotel,202 Maple Lane,4
+Luxury Resort,202 Maple Lane,4.5
+Seaside Inn,202 Maple Lane,4
+City Center Hotel,789 Oak Boulevard,5
+City Center Hotel,123 Main Street,4
+Luxury Resort,101 Pine Road,5
+Grand Hotel,456 Elm Avenue,5
+City Center Hotel,123 Main Street,5
+Seaside Inn,101 Pine Road,4
+City Center Hotel,202 Maple Lane,4.5
+Seaside Inn,456 Elm Avenue,5
+Grand Hotel,789 Oak Boulevard,5
+Luxury Resort,202 Maple Lane,4.5
+Seaside Inn,456 Elm Avenue,4.5
+Seaside Inn,123 Main Street,4
+Seaside Inn,456 Elm Avenue,4
+Mountain Lodge,456 Elm Avenue,4
+Luxury Resort,789 Oak Boulevard,4
+City Center Hotel,101 Pine Road,4
+City Center Hotel,456 Elm Avenue,4.5
+Luxury Resort,123 Main Street,5
+Grand Hotel,789 Oak Boulevard,5
+City Center Hotel,789 Oak Boulevard,4.5
+Mountain Lodge,202 Maple Lane,4
+Seaside Inn,123 Main Street,5
+Luxury Resort,202 Maple Lane,4
+Grand Hotel,456 Elm Avenue,5
+Grand Hotel,123 Main Street,5
+Grand Hotel,101 Pine Road,4.5
+City Center Hotel,456 Elm Avenue,4
+Grand Hotel,202 Maple Lane,4
+Seaside Inn,456 Elm Avenue,4.5
+Seaside Inn,123 Main Street,4.5
+Seaside Inn,789 Oak Boulevard,5
+Seaside Inn,789 Oak Boulevard,4
+Seaside Inn,101 Pine Road,4.5
+Grand Hotel,101 Pine Road,5
+Mountain Lodge,101 Pine Road,5
+City Center Hotel,101 Pine Road,4.5
+Luxury Resort,202 Maple Lane,4
+City Center Hotel,789 Oak Boulevard,5
+City Center Hotel,202 Maple Lane,4
+Seaside Inn,789 Oak Boulevard,5
+Grand Hotel,202 Maple Lane,5
+Seaside Inn,101 Pine Road,5
+City Center Hotel,123 Main Street,4
+City Center Hotel,123 Main Street,4.5
+Grand Hotel,456 Elm Avenue,4
+Grand Hotel,123 Main Street,5
+City Center Hotel,101 Pine Road,5
+Grand Hotel,789 Oak Boulevard,4.5
+Grand Hotel,202 Maple Lane,4
+City Center Hotel,123 Main Street,5
+Luxury Resort,789 Oak Boulevard,4
+Mountain Lodge,789 Oak Boulevard,4.5
+Grand Hotel,789 Oak Boulevard,4
+Grand Hotel,202 Maple Lane,4
+Seaside Inn,101 Pine Road,4
+City Center Hotel,101 Pine Road,4
+Seaside Inn,789 Oak Boulevard,5
+Mountain Lodge,123 Main Street,5
+City Center Hotel,789 Oak Boulevard,5
+Mountain Lodge,202 Maple Lane,4.5
+Luxury Resort,101 Pine Road,4.5
+Seaside Inn,789 Oak Boulevard,4
+Seaside Inn,456 Elm Avenue,4
+City Center Hotel,456 Elm Avenue,5
+City Center Hotel,123 Main Street,4.5
+Mountain Lodge,789 Oak Boulevard,4
+Grand Hotel,789 Oak Boulevard,4
+City Center Hotel,789 Oak Boulevard,4
+Mountain Lodge,789 Oak Boulevard,5
+Mountain Lodge,202 Maple Lane,4.5
+Luxury Resort,456 Elm Avenue,4
+City Center Hotel,123 Main Street,5
+Seaside Inn,101 Pine Road,4.5
+City Center Hotel,202 Maple Lane,4
+City Center Hotel,101 Pine Road,4
+Grand Hotel,123 Main Street,4.5
+City Center Hotel,789 Oak Boulevard,5
+Seaside Inn,123 Main Street,4
+Seaside Inn,101 Pine Road,5
+Seaside Inn,202 Maple Lane,4.5
+Mountain Lodge,789 Oak Boulevard,4
+City Center Hotel,789 Oak Boulevard,5
+Mountain Lodge,789 Oak Boulevard,4.5
+Seaside Inn,456 Elm Avenue,4
+Seaside Inn,202 Maple Lane,5
+City Center Hotel,202 Maple Lane,5
+City Center Hotel,123 Main Street,4
+Seaside Inn,202 Maple Lane,4.5
+Luxury Resort,101 Pine Road,5
+Luxury Resort,101 Pine Road,4.5
+Seaside Inn,456 Elm Avenue,4.5
+Seaside Inn,202 Maple Lane,5
+Mountain Lodge,789 Oak Boulevard,5
+City Center Hotel,123 Main Street,4.5
+City Center Hotel,456 Elm Avenue,4.5
+Seaside Inn,101 Pine Road,4
+Grand Hotel,456 Elm Avenue,4
+Mountain Lodge,123 Main Street,5
+Luxury Resort,456 Elm Avenue,4.5
+Grand Hotel,101 Pine Road,4.5
+City Center Hotel,202 Maple Lane,5
+City Center Hotel,202 Maple Lane,4.5
+Mountain Lodge,202 Maple Lane,5
+Seaside Inn,789 Oak Boulevard,5
+City Center Hotel,789 Oak Boulevard,4.5
+Seaside Inn,789 Oak Boulevard,5
+Grand Hotel,202 Maple Lane,4.5
+Seaside Inn,789 Oak Boulevard,4
+Seaside Inn,456 Elm Avenue,4
+Mountain Lodge,456 Elm Avenue,5
+Mountain Lodge,123 Main Street,5
+Seaside Inn,202 Maple Lane,4
+Seaside Inn,101 Pine Road,4.5
+Luxury Resort,456 Elm Avenue,4.5
+City Center Hotel,789 Oak Boulevard,5
+Grand Hotel,101 Pine Road,5
+Luxury Resort,202 Maple Lane,5
+Seaside Inn,789 Oak Boulevard,4
+Grand Hotel,123 Main Street,4
+Luxury Resort,101 Pine Road,4
+Luxury Resort,789 Oak Boulevard,5
+Luxury Resort,101 Pine Road,4
+City Center Hotel,456 Elm Avenue,4.5
+Luxury Resort,123 Main Street,4
+Grand Hotel,101 Pine Road,5
+Luxury Resort,456 Elm Avenue,4.5
+Luxury Resort,789 Oak Boulevard,5
+City Center Hotel,789 Oak Boulevard,4.5
+Seaside Inn,123 Main Street,5
+City Center Hotel,456 Elm Avenue,4
+Grand Hotel,789 Oak Boulevard,4.5
+Grand Hotel,101 Pine Road,4.5
+Luxury Resort,101 Pine Road,4
+Seaside Inn,789 Oak Boulevard,4.5
+City Center Hotel,789 Oak Boulevard,5
+City Center Hotel,456 Elm Avenue,5
+Seaside Inn,202 Maple Lane,4
+Luxury Resort,456 Elm Avenue,5
+City Center Hotel,101 Pine Road,4
+Seaside Inn,123 Main Street,4.5
+Seaside Inn,202 Maple Lane,5
+Mountain Lodge,202 Maple Lane,5
+City Center Hotel,123 Main Street,4
+Seaside Inn,101 Pine Road,5
+Seaside Inn,101 Pine Road,4.5
+Seaside Inn,202 Maple Lane,4
+Seaside Inn,123 Main Street,4.5
+Luxury Resort,789 Oak Boulevard,5
+Luxury Resort,101 Pine Road,4.5
+Seaside Inn,456 Elm Avenue,4.5
+Seaside Inn,456 Elm Avenue,5
+Grand Hotel,101 Pine Road,4.5
+Seaside Inn,789 Oak Boulevard,4.5
+Mountain Lodge,202 Maple Lane,4
+Mountain Lodge,789 Oak Boulevard,5
+Luxury Resort,101 Pine Road,4
+Grand Hotel,101 Pine Road,4.5
+Grand Hotel,456 Elm Avenue,5
+Mountain Lodge,123 Main Street,4
+Seaside Inn,123 Main Street,4.5
+Seaside Inn,456 Elm Avenue,4.5
+Seaside Inn,456 Elm Avenue,4
+Seaside Inn,789 Oak Boulevard,5
+Mountain Lodge,456 Elm Avenue,4.5
+City Center Hotel,123 Main Street,4.5
+Luxury Resort,456 Elm Avenue,5
+City Center Hotel,123 Main Street,4.5
+City Center Hotel,202 Maple Lane,5
+Luxury Resort,456 Elm Avenue,5
+Grand Hotel,789 Oak Boulevard,5
+Grand Hotel,101 Pine Road,4.5
+City Center Hotel,456 Elm Avenue,4
+Grand Hotel,789 Oak Boulevard,5
+Luxury Resort,101 Pine Road,4.5
+Mountain Lodge,202 Maple Lane,4
+Luxury Resort,123 Main Street,5
+Luxury Resort,123 Main Street,5
+Grand Hotel,456 Elm Avenue,4
+Luxury Resort,789 Oak Boulevard,4
+Seaside Inn,123 Main Street,5
+City Center Hotel,456 Elm Avenue,4
+City Center Hotel,456 Elm Avenue,4
+Seaside Inn,456 Elm Avenue,5
+Grand Hotel,202 Maple Lane,5
+Grand Hotel,456 Elm Avenue,4.5
+Seaside Inn,456 Elm Avenue,5
+City Center Hotel,202 Maple Lane,4
+Luxury Resort,456 Elm Avenue,5
+Luxury Resort,456 Elm Avenue,5
+Seaside Inn,202 Maple Lane,4.5
+Luxury Resort,789 Oak Boulevard,4
+City Center Hotel,202 Maple Lane,5
+Seaside Inn,101 Pine Road,5
+City Center Hotel,789 Oak Boulevard,5
+Grand Hotel,101 Pine Road,4.5
+Grand Hotel,789 Oak Boulevard,5
+City Center Hotel,123 Main Street,4.5
+Seaside Inn,101 Pine Road,5
+Mountain Lodge,456 Elm Avenue,4
+Luxury Resort,202 Maple Lane,4
+Grand Hotel,789 Oak Boulevard,5
+Mountain Lodge,456 Elm Avenue,4
+Seaside Inn,202 Maple Lane,4
+Luxury Resort,456 Elm Avenue,5
+City Center Hotel,123 Main Street,4.5
+Luxury Resort,101 Pine Road,5
+Seaside Inn,202 Maple Lane,4
+Mountain Lodge,789 Oak Boulevard,5
+Grand Hotel,101 Pine Road,5
+Seaside Inn,101 Pine Road,4
+Mountain Lodge,202 Maple Lane,4
+Seaside Inn,789 Oak Boulevard,4.5
+Mountain Lodge,202 Maple Lane,4.5
+City Center Hotel,123 Main Street,4
+Grand Hotel,202 Maple Lane,4.5
+Grand Hotel,123 Main Street,4
+Grand Hotel,202 Maple Lane,5
+Mountain Lodge,456 Elm Avenue,5
+Seaside Inn,101 Pine Road,5
+Luxury Resort,123 Main Street,5
+City Center Hotel,789 Oak Boulevard,4.5
+City Center Hotel,456 Elm Avenue,5
+City Center Hotel,101 Pine Road,4
+Luxury Resort,789 Oak Boulevard,4.5
+Grand Hotel,101 Pine Road,4
+Mountain Lodge,456 Elm Avenue,4.5
+Mountain Lodge,789 Oak Boulevard,5
+Mountain Lodge,101 Pine Road,4.5
+City Center Hotel,456 Elm Avenue,4.5
+Grand Hotel,123 Main Street,4.5
+Seaside Inn,123 Main Street,4.5
+Grand Hotel,789 Oak Boulevard,4
+Mountain Lodge,456 Elm Avenue,4
+City Center Hotel,789 Oak Boulevard,5
+Seaside Inn,202 Maple Lane,4.5
+Grand Hotel,456 Elm Avenue,5
+Mountain Lodge,202 Maple Lane,4
+Luxury Resort,101 Pine Road,4.5
+Mountain Lodge,202 Maple Lane,4.5
+Seaside Inn,123 Main Street,4
+Grand Hotel,789 Oak Boulevard,4
+Seaside Inn,789 Oak Boulevard,4.5
+Grand Hotel,202 Maple Lane,5
+Luxury Resort,101 Pine Road,5
+City Center Hotel,123 Main Street,5
+Grand Hotel,123 Main Street,5
+Luxury Resort,456 Elm Avenue,4
+Grand Hotel,789 Oak Boulevard,5
+Grand Hotel,789 Oak Boulevard,5
+Grand Hotel,101 Pine Road,4
+Seaside Inn,456 Elm Avenue,4
+City Center Hotel,101 Pine Road,4.5
+City Center Hotel,202 Maple Lane,4.5
+City Center Hotel,123 Main Street,5
+City Center Hotel,101 Pine Road,4
+City Center Hotel,202 Maple Lane,4.5
+Mountain Lodge,202 Maple Lane,4
+City Center Hotel,202 Maple Lane,5
+City Center Hotel,101 Pine Road,4
+Luxury Resort,789 Oak Boulevard,4
+City Center Hotel,202 Maple Lane,4.5
+Mountain Lodge,123 Main Street,5
+Seaside Inn,202 Maple Lane,4
+Grand Hotel,123 Main Street,4.5
+Seaside Inn,123 Main Street,4.5
+Grand Hotel,456 Elm Avenue,5
+Grand Hotel,789 Oak Boulevard,5
+Grand Hotel,123 Main Street,5
+Seaside Inn,123 Main Street,4
+Seaside Inn,101 Pine Road,4
+Grand Hotel,456 Elm Avenue,5
+Seaside Inn,202 Maple Lane,4.5
+Grand Hotel,789 Oak Boulevard,4.5
+Mountain Lodge,202 Maple Lane,4.5
+Luxury Resort,456 Elm Avenue,5
+City Center Hotel,789 Oak Boulevard,4
+Grand Hotel,789 Oak Boulevard,4.5
+Luxury Resort,456 Elm Avenue,4.5
+Luxury Resort,202 Maple Lane,4
+Grand Hotel,123 Main Street,5
+Seaside Inn,101 Pine Road,5
+Grand Hotel,456 Elm Avenue,5
+City Center Hotel,202 Maple Lane,4.5
+City Center Hotel,789 Oak Boulevard,4.5
+Mountain Lodge,123 Main Street,4
+City Center Hotel,456 Elm Avenue,4.5
+Seaside Inn,789 Oak Boulevard,4
+Grand Hotel,101 Pine Road,4.5
+Grand Hotel,101 Pine Road,4.5
+City Center Hotel,202 Maple Lane,5
+Mountain Lodge,789 Oak Boulevard,4
+City Center Hotel,456 Elm Avenue,4
+Mountain Lodge,101 Pine Road,5
+Seaside Inn,789 Oak Boulevard,5
+Luxury Resort,202 Maple Lane,4
+Seaside Inn,101 Pine Road,4.5
+Mountain Lodge,789 Oak Boulevard,4.5
+Luxury Resort,123 Main Street,4
+Mountain Lodge,202 Maple Lane,4.5
+Grand Hotel,101 Pine Road,5
+City Center Hotel,456 Elm Avenue,4
+Mountain Lodge,123 Main Street,5
+Seaside Inn,101 Pine Road,4.5
+Seaside Inn,123 Main Street,5
+Seaside Inn,789 Oak Boulevard,4
+Mountain Lodge,123 Main Street,4
+City Center Hotel,123 Main Street,4.5
+Mountain Lodge,202 Maple Lane,4
+Luxury Resort,456 Elm Avenue,5
+Mountain Lodge,101 Pine Road,4.5
+Grand Hotel,202 Maple Lane,5
+City Center Hotel,789 Oak Boulevard,4
+Seaside Inn,789 Oak Boulevard,4
+Luxury Resort,789 Oak Boulevard,4.5
+City Center Hotel,202 Maple Lane,5
+Luxury Resort,101 Pine Road,4.5
+Seaside Inn,101 Pine Road,5
+Mountain Lodge,202 Maple Lane,5
+Mountain Lodge,202 Maple Lane,4
+City Center Hotel,202 Maple Lane,4
+Seaside Inn,456 Elm Avenue,5
+Mountain Lodge,123 Main Street,4.5
+Grand Hotel,101 Pine Road,4.5
+Mountain Lodge,456 Elm Avenue,5
+Seaside Inn,202 Maple Lane,5
+City Center Hotel,789 Oak Boulevard,4
+City Center Hotel,123 Main Street,4
+City Center Hotel,123 Main Street,4.5
+Mountain Lodge,202 Maple Lane,5
+Grand Hotel,789 Oak Boulevard,5
+Grand Hotel,456 Elm Avenue,5
+Grand Hotel,789 Oak Boulevard,4
+Grand Hotel,123 Main Street,5
+Mountain Lodge,456 Elm Avenue,4.5
+Mountain Lodge,456 Elm Avenue,4
+Mountain Lodge,456 Elm Avenue,4.5
+City Center Hotel,789 Oak Boulevard,5
+Mountain Lodge,202 Maple Lane,4
+Seaside Inn,202 Maple Lane,4
+Mountain Lodge,123 Main Street,5
+Luxury Resort,123 Main Street,4
+Seaside Inn,123 Main Street,4
+Seaside Inn,789 Oak Boulevard,4.5
+City Center Hotel,789 Oak Boulevard,5
+Luxury Resort,101 Pine Road,4
+Grand Hotel,202 Maple Lane,5
+City Center Hotel,202 Maple Lane,5
+Grand Hotel,202 Maple Lane,5
+Luxury Resort,202 Maple Lane,5
+Luxury Resort,789 Oak Boulevard,4
+Mountain Lodge,456 Elm Avenue,5
+Seaside Inn,456 Elm Avenue,4
+Grand Hotel,789 Oak Boulevard,4.5
+Luxury Resort,123 Main Street,4
+Mountain Lodge,456 Elm Avenue,5
+City Center Hotel,123 Main Street,4
+Mountain Lodge,123 Main Street,4.5
+City Center Hotel,789 Oak Boulevard,4
+Seaside Inn,456 Elm Avenue,5
+Luxury Resort,101 Pine Road,4.5
+Luxury Resort,456 Elm Avenue,4.5
+City Center Hotel,456 Elm Avenue,4.5
+City Center Hotel,789 Oak Boulevard,4.5
+Seaside Inn,456 Elm Avenue,5
+Mountain Lodge,789 Oak Boulevard,5
+Seaside Inn,202 Maple Lane,4.5
+Luxury Resort,789 Oak Boulevard,4
+Mountain Lodge,202 Maple Lane,5
+Mountain Lodge,123 Main Street,4
+Luxury Resort,101 Pine Road,4
+Mountain Lodge,101 Pine Road,4
+Mountain Lodge,202 Maple Lane,5
+Seaside Inn,789 Oak Boulevard,4.5
+Seaside Inn,202 Maple Lane,5
+City Center Hotel,789 Oak Boulevard,4
+Mountain Lodge,456 Elm Avenue,5
+Grand Hotel,202 Maple Lane,5
+City Center Hotel,101 Pine Road,5
+Mountain Lodge,123 Main Street,4
+City Center Hotel,101 Pine Road,5
+Mountain Lodge,202 Maple Lane,4
+Mountain Lodge,123 Main Street,5
+Luxury Resort,456 Elm Avenue,4
+Grand Hotel,456 Elm Avenue,5
+Mountain Lodge,456 Elm Avenue,5
+Luxury Resort,202 Maple Lane,4
+Seaside Inn,456 Elm Avenue,5
+Mountain Lodge,789 Oak Boulevard,4.5
+City Center Hotel,123 Main Street,4.5
+Seaside Inn,123 Main Street,4.5
+Grand Hotel,202 Maple Lane,4.5
+City Center Hotel,101 Pine Road,4
+Mountain Lodge,101 Pine Road,4
+Mountain Lodge,101 Pine Road,4
+Seaside Inn,789 Oak Boulevard,4.5
+City Center Hotel,202 Maple Lane,5
+City Center Hotel,101 Pine Road,4.5
+Grand Hotel,202 Maple Lane,4
+Seaside Inn,202 Maple Lane,5
+City Center Hotel,202 Maple Lane,5
+Grand Hotel,101 Pine Road,5
+Luxury Resort,123 Main Street,4
+Mountain Lodge,123 Main Street,4
+Grand Hotel,123 Main Street,4
+Luxury Resort,789 Oak Boulevard,4
+Luxury Resort,789 Oak Boulevard,4
+Grand Hotel,456 Elm Avenue,4
+Luxury Resort,202 Maple Lane,4
+Seaside Inn,202 Maple Lane,5
+Seaside Inn,101 Pine Road,4
+Seaside Inn,789 Oak Boulevard,4
+Seaside Inn,202 Maple Lane,4
+Seaside Inn,789 Oak Boulevard,4
+Grand Hotel,456 Elm Avenue,4
+Grand Hotel,789 Oak Boulevard,4
+Seaside Inn,456 Elm Avenue,5
+Seaside Inn,202 Maple Lane,4
+City Center Hotel,101 Pine Road,5
+Luxury Resort,101 Pine Road,5
+Luxury Resort,789 Oak Boulevard,4
+Grand Hotel,789 Oak Boulevard,5
+Grand Hotel,123 Main Street,4.5
+Seaside Inn,101 Pine Road,4
+Luxury Resort,789 Oak Boulevard,4
+Luxury Resort,456 Elm Avenue,5
+Mountain Lodge,101 Pine Road,5
+Grand Hotel,101 Pine Road,5
+Luxury Resort,789 Oak Boulevard,5
+City Center Hotel,456 Elm Avenue,4.5
+Seaside Inn,789 Oak Boulevard,5
+Mountain Lodge,789 Oak Boulevard,5
+Grand Hotel,123 Main Street,4.5
+City Center Hotel,101 Pine Road,5
+City Center Hotel,123 Main Street,4
+Grand Hotel,789 Oak Boulevard,4
+Mountain Lodge,101 Pine Road,4
+Grand Hotel,123 Main Street,5
+City Center Hotel,456 Elm Avenue,4
+City Center Hotel,202 Maple Lane,4
+City Center Hotel,101 Pine Road,5
+Mountain Lodge,123 Main Street,5
+Mountain Lodge,456 Elm Avenue,4
+Seaside Inn,456 Elm Avenue,5
+Seaside Inn,202 Maple Lane,4.5
+Luxury Resort,101 Pine Road,4.5
+City Center Hotel,202 Maple Lane,4.5
+City Center Hotel,456 Elm Avenue,4.5
+Grand Hotel,101 Pine Road,5
+Seaside Inn,202 Maple Lane,4.5
+Luxury Resort,123 Main Street,4.5
+Grand Hotel,101 Pine Road,4.5
+Seaside Inn,202 Maple Lane,4.5
+Mountain Lodge,101 Pine Road,5
+Mountain Lodge,789 Oak Boulevard,4.5
+Grand Hotel,456 Elm Avenue,4.5
+City Center Hotel,789 Oak Boulevard,4
+City Center Hotel,789 Oak Boulevard,4
+Mountain Lodge,101 Pine Road,4.5
+Luxury Resort,456 Elm Avenue,4.5
+Grand Hotel,101 Pine Road,5
+Grand Hotel,123 Main Street,5
+Luxury Resort,456 Elm Avenue,4
+Seaside Inn,123 Main Street,5
+Grand Hotel,789 Oak Boulevard,4.5
+Luxury Resort,101 Pine Road,5
+Luxury Resort,123 Main Street,4
+Mountain Lodge,789 Oak Boulevard,4
+Luxury Resort,101 Pine Road,4.5
+City Center Hotel,123 Main Street,5
+Seaside Inn,456 Elm Avenue,4
+Luxury Resort,202 Maple Lane,5
+Mountain Lodge,789 Oak Boulevard,4
+Seaside Inn,456 Elm Avenue,4
+Grand Hotel,456 Elm Avenue,4
+Grand Hotel,456 Elm Avenue,4.5
+Luxury Resort,456 Elm Avenue,4
+Seaside Inn,202 Maple Lane,4
+City Center Hotel,202 Maple Lane,4.5
+City Center Hotel,202 Maple Lane,4
+City Center Hotel,101 Pine Road,5
+Seaside Inn,789 Oak Boulevard,4
+Seaside Inn,202 Maple Lane,4
+City Center Hotel,456 Elm Avenue,5
+Luxury Resort,101 Pine Road,5
+Grand Hotel,456 Elm Avenue,4
+Seaside Inn,456 Elm Avenue,4.5
+Luxury Resort,123 Main Street,5
+Grand Hotel,202 Maple Lane,5
+Grand Hotel,789 Oak Boulevard,4
+Grand Hotel,123 Main Street,4
+Grand Hotel,789 Oak Boulevard,4.5
+City Center Hotel,789 Oak Boulevard,4.5
+Grand Hotel,456 Elm Avenue,4.5
+Seaside Inn,101 Pine Road,4
+City Center Hotel,101 Pine Road,4.5
+Luxury Resort,202 Maple Lane,5
+Grand Hotel,101 Pine Road,5
+Seaside Inn,202 Maple Lane,4.5
+Seaside Inn,202 Maple Lane,4.5
+Seaside Inn,202 Maple Lane,5
+Luxury Resort,101 Pine Road,4.5
+Seaside Inn,456 Elm Avenue,5
+Mountain Lodge,202 Maple Lane,5
+Seaside Inn,202 Maple Lane,4.5
+Seaside Inn,202 Maple Lane,5
+Luxury Resort,202 Maple Lane,5
+Grand Hotel,456 Elm Avenue,4.5
+City Center Hotel,202 Maple Lane,4
+Seaside Inn,202 Maple Lane,4
+Seaside Inn,123 Main Street,4
+Mountain Lodge,202 Maple Lane,4
+Luxury Resort,101 Pine Road,5
+Grand Hotel,456 Elm Avenue,4
+City Center Hotel,123 Main Street,4.5
+Luxury Resort,789 Oak Boulevard,5
+Luxury Resort,202 Maple Lane,5
+Luxury Resort,123 Main Street,4.5
+City Center Hotel,101 Pine Road,5
+Grand Hotel,101 Pine Road,4.5
+Luxury Resort,789 Oak Boulevard,5
+Luxury Resort,789 Oak Boulevard,4
+Grand Hotel,789 Oak Boulevard,5
+Mountain Lodge,456 Elm Avenue,5
+Seaside Inn,101 Pine Road,4
+Seaside Inn,123 Main Street,5
+Seaside Inn,456 Elm Avenue,4
+Seaside Inn,202 Maple Lane,5
+Seaside Inn,789 Oak Boulevard,4
+Luxury Resort,202 Maple Lane,4
+City Center Hotel,789 Oak Boulevard,5
+Grand Hotel,456 Elm Avenue,4
+Grand Hotel,202 Maple Lane,5
+Luxury Resort,101 Pine Road,4
+Mountain Lodge,456 Elm Avenue,4
+Mountain Lodge,101 Pine Road,4
+Mountain Lodge,123 Main Street,5
+City Center Hotel,101 Pine Road,4
+Luxury Resort,123 Main Street,4.5
+City Center Hotel,123 Main Street,5
+Luxury Resort,456 Elm Avenue,5
+Grand Hotel,101 Pine Road,5
+Seaside Inn,456 Elm Avenue,4
+City Center Hotel,789 Oak Boulevard,5
+Seaside Inn,202 Maple Lane,4
+Grand Hotel,123 Main Street,5
+Grand Hotel,101 Pine Road,5
+City Center Hotel,202 Maple Lane,5
+City Center Hotel,789 Oak Boulevard,5
+Luxury Resort,456 Elm Avenue,5
+Grand Hotel,789 Oak Boulevard,4.5
+Mountain Lodge,123 Main Street,4
+City Center Hotel,789 Oak Boulevard,4.5
+Grand Hotel,456 Elm Avenue,5
+Grand Hotel,101 Pine Road,5
+Luxury Resort,789 Oak Boulevard,5
+Seaside Inn,101 Pine Road,4
+City Center Hotel,202 Maple Lane,4
+Mountain Lodge,202 Maple Lane,4
+City Center Hotel,202 Maple Lane,5
+Grand Hotel,101 Pine Road,4.5
+Grand Hotel,202 Maple Lane,4.5
+Grand Hotel,789 Oak Boulevard,4.5
+City Center Hotel,202 Maple Lane,4
+Luxury Resort,123 Main Street,4
+City Center Hotel,456 Elm Avenue,4
+Luxury Resort,202 Maple Lane,4
+Grand Hotel,789 Oak Boulevard,5
+Seaside Inn,456 Elm Avenue,5
+Seaside Inn,789 Oak Boulevard,4.5
+Seaside Inn,101 Pine Road,4
+Luxury Resort,456 Elm Avenue,5
+Seaside Inn,456 Elm Avenue,5
+Luxury Resort,202 Maple Lane,4
+City Center Hotel,789 Oak Boulevard,4.5
+Luxury Resort,123 Main Street,4.5
+Mountain Lodge,789 Oak Boulevard,4.5
+Luxury Resort,456 Elm Avenue,4.5
+City Center Hotel,101 Pine Road,5
+Mountain Lodge,101 Pine Road,4.5
+Seaside Inn,101 Pine Road,5
+Grand Hotel,123 Main Street,4.5
+Mountain Lodge,101 Pine Road,4
+City Center Hotel,789 Oak Boulevard,5
+City Center Hotel,202 Maple Lane,4
+Grand Hotel,123 Main Street,4
+Mountain Lodge,202 Maple Lane,4.5
+Grand Hotel,202 Maple Lane,4.5
+Grand Hotel,101 Pine Road,4.5

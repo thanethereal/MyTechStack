@@ -1,0 +1,56 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:15-alpine
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data/
+    environment:
+      - POSTGRES_USER=$$POSTGRES_USER
+      - POSTGRES_PASSWORD=$$POSTGRES_PASSWORD
+      - POSTGRES_DB=$$POSTGRES_DB
+    networks:
+      - my_network 
+
+  jenkins:
+    image: jenkins/jenkins:lts
+    container_name: jenkins
+    ports:
+      - "8080:8080"
+    volumes:
+      - jenkins_home:/var/jenkins_home
+    environment:
+      - JAVA_OPTS=-Djenkins.install.runSetupWizard=false
+    networks:
+      - my_network
+
+  myapp:
+    container_name: myapp
+    build:
+      context: .
+      args:
+        ENV_STATE: dev #(dev or produ or stage or test)
+      dockerfile: Dockerfile
+    image: myapp
+    restart: always
+    ports:
+      - "8000:8000"
+    depends_on:
+      - postgres
+      - jenkins
+    environment:
+      - POSTGRES_USER=$$POSTGRES_USER
+      - POSTGRES_PASSWORD=$$POSTGRES_PASSWORD
+      - POSTGRES_DB=$$POSTGRES_DB
+    networks:
+      - my_network 
+
+volumes:
+  postgres_data:
+  jenkins_home:
+
+networks:
+  my_network:
+    driver: bridge
